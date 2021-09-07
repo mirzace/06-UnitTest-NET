@@ -1,0 +1,12 @@
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\bin\Debug\net5.0\Sparky.deps.json
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\bin\Debug\net5.0\Sparky.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\bin\Debug\net5.0\ref\Sparky.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\bin\Debug\net5.0\Sparky.pdb
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.AssemblyReference.cache
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfoInputs.cache
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfo.cs
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.CoreCompileInputs.cache
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\ref\Sparky.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\Sparky\obj\Debug\net5.0\Sparky.pdb
