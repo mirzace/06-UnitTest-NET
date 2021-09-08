@@ -100,3 +100,5 @@ C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\SparkyNUnitTest\bin\Debug\net5.0\Sparky.pdb
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\SparkyNUnitTest\obj\Debug\net5.0\SparkyNUnitTest.csproj.CopyComplete
 C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\SparkyNUnitTest\obj\Debug\net5.0\SparkyNUnitTest.genruntimeconfig.cache
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\SparkyNUnitTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\mirzace\Desktop\Projects\Junior Acceleration Program\06.UnitTest\Sparky\SparkyNUnitTest\bin\Debug\net5.0\Moq.dll
